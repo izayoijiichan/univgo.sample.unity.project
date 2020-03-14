@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "com.unity.ugui": "1.0.0",
-    "izayoi.univgo": "https://github.com/izayoijiichan/VGO.git#v0.7.0",
+    "izayoi.univgo": "https://github.com/izayoijiichan/VGO.git#v0.8.0",
     "jillejr.newtonsoft.json-for-unity": "12.0.301",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
@@ -46,8 +46,8 @@
   },
   "lock": {
     "izayoi.univgo": {
-      "revision": "v0.7.0",
-      "hash": "94a920b532912b4fa40e2250f22980a1661b6802"
+      "revision": "v0.8.0",
+      "hash": "e12b4ffa449b24c86acb9cf4829282c06512d1c3"
     }
   }
 }

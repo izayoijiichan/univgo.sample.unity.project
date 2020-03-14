@@ -336,7 +336,7 @@ Transform:
   m_LocalScale: {x: 6, y: 0.4, z: 6}
   m_Children: []
   m_Father: {fileID: 2104868472}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &315576727
 BoxCollider:
@@ -428,7 +428,7 @@ Transform:
   - {fileID: 157299500}
   - {fileID: 284878422}
   m_Father: {fileID: 2104868472}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &671149709
 GameObject:
@@ -554,7 +554,7 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children: []
   m_Father: {fileID: 2104868472}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &1012849961
 Rigidbody:
@@ -632,6 +632,46 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1012849959}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1029795656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1029795657}
+  - component: {fileID: 1029795658}
+  m_Layer: 0
+  m_Name: Skybox
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1029795657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029795656}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2104868472}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!45 &1029795658
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029795656}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: dfa8eabd4d3bd5c4c8e3ad65971854d7, type: 2}
 --- !u!1 &1099179466
 GameObject:
   m_ObjectHideFlags: 0
@@ -662,7 +702,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2104868472}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!199 &1099179468
 ParticleSystemRenderer:
@@ -5417,7 +5457,7 @@ Transform:
   - {fileID: 1811383022}
   - {fileID: 1949538294}
   m_Father: {fileID: 2104868472}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &1237683831
 Rigidbody:
@@ -5654,8 +5694,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Meta:
     generatorName: UniVGO
-    generatorVersion: 0.7.0
-    specVersion: 0.5
+    generatorVersion: 0.8.0
+    specVersion: 0.6
 --- !u!114 &2104868471
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5688,6 +5728,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1029795657}
   - {fileID: 345069138}
   - {fileID: 1012849960}
   - {fileID: 1237683830}
