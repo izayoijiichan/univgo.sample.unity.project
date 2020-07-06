@@ -10,8 +10,8 @@
   ],
   "dependencies": {
     "com.unity.ugui": "1.0.0",
-    "com.vrmc.vrmshaders": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.56.1",
-    "izayoi.univgo": "https://github.com/izayoijiichan/VGO.git#v0.8.2",
+    "com.vrmc.vrmshaders": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.56.2",
+    "izayoi.univgo": "https://github.com/izayoijiichan/VGO.git#v0.8.3",
     "jillejr.newtonsoft.json-for-unity": "12.0.301",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",

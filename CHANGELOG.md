@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.8.3] - 2020-07-06
+Added support for UniVGO 0.8.3 version.
+
 ## [0.8.2] - 2020-07-04
 Added support for UniVGO 0.8.2 version.
 

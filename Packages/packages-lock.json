@@ -9,21 +9,21 @@
       }
     },
     "com.vrmc.vrmshaders": {
-      "version": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.56.1",
+      "version": "https://github.com/vrm-c/UniVRM.git?path=/Assets/VRMShaders#v0.56.2",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "2d30e866e5ff8577335255f1c08c370fdde2e20e"
+      "hash": "155acf354735288db0335878179f483901541851"
     },
     "izayoi.univgo": {
-      "version": "https://github.com/izayoijiichan/VGO.git#v0.8.2",
+      "version": "https://github.com/izayoijiichan/VGO.git#v0.8.3",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.vrmc.vrmshaders": "0.56.1",
+        "com.vrmc.vrmshaders": "0.56.2",
         "jillejr.newtonsoft.json-for-unity": "12.0.301"
       },
-      "hash": "b884e079b3ff90630764439741ee098bebe46a2f"
+      "hash": "85c70c512f39ef6e0705087e63fe014a745c8c4b"
     },
     "jillejr.newtonsoft.json-for-unity": {
       "version": "12.0.301",
