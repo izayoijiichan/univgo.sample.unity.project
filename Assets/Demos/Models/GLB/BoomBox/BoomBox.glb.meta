@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 4896d4799294ed64586e5f9f0a66b0f2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoomBox_Mat
+    second: {fileID: 2100000, guid: ef54aa79a247e1544a1faade3ee4b5c9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture_000
+    second: {fileID: 2800000, guid: aaf60592dc760114c9b7925376290a59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture_001
+    second: {fileID: 2800000, guid: 295ba3f2888bc9e4ea5ffed34591139d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture_002
+    second: {fileID: 2800000, guid: 2e7dd956a233776408f484f993871f41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture_003
+    second: {fileID: 2800000, guid: 2ab88e006829549478427311120dec40, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b7ac798fcebd2f647924b95cf2aafb53, type: 3}

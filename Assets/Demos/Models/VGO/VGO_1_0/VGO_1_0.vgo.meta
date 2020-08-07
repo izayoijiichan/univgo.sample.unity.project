@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 98105b46469772445b2953b7953f902f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ParticleStandardMaterial
+    second: {fileID: 2100000, guid: 231fd5185989d6f4aa3943fa1c1381fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkyboxProceduralMaterial
+    second: {fileID: 2100000, guid: 41326abd1fe61d646942c5a22bd091bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StandardMaterial
+    second: {fileID: 2100000, guid: a27cd92b58087f541a200ab4f6356f2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VrmMToonMaterial
+    second: {fileID: 2100000, guid: 814d4edac9b3e634780927e273d7d99c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Star
+    second: {fileID: 2800000, guid: 44509388cc9588d448356c6ec2b896db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor
+    second: {fileID: 2800000, guid: bd9fc7dc07372a147bfdff486ab710ac, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8b564a10862ba6c45a96ef8c0fdf76fa, type: 3}

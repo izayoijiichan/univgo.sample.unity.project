@@ -5694,7 +5694,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Meta:
     generatorName: UniVGO
-    generatorVersion: 0.8.0
+    generatorVersion: 1.0.0
     specVersion: 0.6
 --- !u!114 &2104868471
 MonoBehaviour:
@@ -5748,6 +5748,7 @@ GameObject:
   - component: {fileID: 2106668880}
   - component: {fileID: 2106668879}
   - component: {fileID: 2106668878}
+  - component: {fileID: 2106668881}
   m_Layer: 0
   m_Name: MainCamera
   m_TagString: MainCamera
@@ -5820,3 +5821,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!45 &2106668881
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2106668877}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 0}

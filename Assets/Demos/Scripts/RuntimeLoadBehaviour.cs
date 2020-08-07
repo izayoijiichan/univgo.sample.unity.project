@@ -15,7 +15,7 @@
             {
                 var vgoImporter = new VgoImporter();
 
-                vgoImporter.Load(_LocalFilePath, showMeshes: true, enableUpdateWhenOffscreen: true);
+                vgoImporter.Load(_LocalFilePath);
             }
             else
             {
