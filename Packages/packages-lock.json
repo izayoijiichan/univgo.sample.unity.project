@@ -44,7 +44,7 @@
       "hash": "e7c4aac83804899bde84d93f458883c90db8a116"
     },
     "izayoi.univgo": {
-      "version": "https://github.com/izayoijiichan/VGO.git#v1.0.0",
+      "version": "https://github.com/izayoijiichan/VGO.git#v1.0.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -53,16 +53,16 @@
         "izayoi.newton.gltf": "1.0.0",
         "izayoi.newton.gltf.vgo.extensions": "1.0.0",
         "izayoi.unishaders": "1.0.0",
-        "izayoi.vgo.gltf": "1.0.0"
+        "izayoi.vgo.gltf": "1.0.1"
       },
-      "hash": "46ff53487cf880c1434fc25e05122e6a5611b809"
+      "hash": "a0c827760e6254eb442322f7488411047de00f9b"
     },
     "izayoi.vgo.gltf": {
-      "version": "https://github.com/izayoijiichan/vgo.gltf.git#v1.0.0",
+      "version": "https://github.com/izayoijiichan/vgo.gltf.git#v1.0.1",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "ee8fc66e48f085dbe8f9bc349d511f5c5b825a29"
+      "hash": "6825128dbf666706e88f5a373a3bcf8623aea6cc"
     },
     "jillejr.newtonsoft.json-for-unity": {
       "version": "12.0.301",
