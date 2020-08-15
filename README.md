@@ -8,8 +8,8 @@ ___
 |name|version|
 |:--|:--:|
 |Unity|2019.4.7f1|
-|UniVGO|1.0.0|
-|VGO|0.6|
+|UniVGO|1.1.0|
+|VGO|1.0|
 
 ___
 ## Link
@@ -37,7 +37,7 @@ ___
 [BoomBox](https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/BoomBox)
 
 ___
-Last updated: 7 Aug, 2020  
+Last updated: 15 Aug, 2020  
 Editor: Izayoi Jiichan
 
 *Copyright (C) 2020 Izayoi Jiichan. All Rights Reserved.*

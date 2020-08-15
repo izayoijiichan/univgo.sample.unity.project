@@ -26,43 +26,43 @@
       "hash": "418f872aa54ef00b057d36792a819f2cc73fec95"
     },
     "izayoi.newton.gltf.vgo.extensions": {
-      "version": "https://github.com/izayoijiichan/newton.gltf.vgo.extensions.git#v1.0.0",
+      "version": "https://github.com/izayoijiichan/newton.gltf.vgo.extensions.git#v1.1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "jillejr.newtonsoft.json-for-unity": "12.0.301",
-        "izayoi.vgo.gltf": "1.0.0",
+        "izayoi.vgo.gltf": "1.0.2",
         "izayoi.newton.gltf": "1.0.0"
       },
-      "hash": "795d63ccd2c7208de48fc253af400f49d8f1a9fc"
+      "hash": "bc3b222bce1059baccd0f19dc1b64f898d64f308"
     },
     "izayoi.unishaders": {
-      "version": "https://github.com/izayoijiichan/UniShaders.git#v1.0.0",
+      "version": "https://github.com/izayoijiichan/UniShaders.git#v1.0.1",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e7c4aac83804899bde84d93f458883c90db8a116"
+      "hash": "238bcb5049303df85694a97f8267c838d6cf2042"
     },
     "izayoi.univgo": {
-      "version": "https://github.com/izayoijiichan/VGO.git#v1.0.1",
+      "version": "https://github.com/izayoijiichan/VGO.git#v1.1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.vrmc.vrmshaders": "0.56.0",
         "jillejr.newtonsoft.json-for-unity": "12.0.301",
         "izayoi.newton.gltf": "1.0.0",
-        "izayoi.newton.gltf.vgo.extensions": "1.0.0",
-        "izayoi.unishaders": "1.0.0",
-        "izayoi.vgo.gltf": "1.0.1"
+        "izayoi.newton.gltf.vgo.extensions": "1.1.0",
+        "izayoi.unishaders": "1.0.1",
+        "izayoi.vgo.gltf": "1.0.2"
       },
-      "hash": "a0c827760e6254eb442322f7488411047de00f9b"
+      "hash": "84b724854e2459092e5e9c4a5b5fc27c01c95a84"
     },
     "izayoi.vgo.gltf": {
-      "version": "https://github.com/izayoijiichan/vgo.gltf.git#v1.0.1",
+      "version": "https://github.com/izayoijiichan/vgo.gltf.git#v1.0.2",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "6825128dbf666706e88f5a373a3bcf8623aea6cc"
+      "hash": "fc5838eab4dc047a8c9a1914aeb65611e1e72e7f"
     },
     "jillejr.newtonsoft.json-for-unity": {
       "version": "12.0.301",
