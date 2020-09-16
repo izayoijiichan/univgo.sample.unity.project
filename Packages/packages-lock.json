@@ -5,7 +5,8 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.modules.ui": "1.0.0"
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0"
       }
     },
     "com.vrmc.vrmshaders": {
@@ -44,7 +45,7 @@
       "hash": "238bcb5049303df85694a97f8267c838d6cf2042"
     },
     "izayoi.univgo": {
-      "version": "https://github.com/izayoijiichan/VGO.git#v1.1.0",
+      "version": "https://github.com/izayoijiichan/VGO.git#v1.1.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -55,7 +56,7 @@
         "izayoi.unishaders": "1.0.1",
         "izayoi.vgo.gltf": "1.0.2"
       },
-      "hash": "84b724854e2459092e5e9c4a5b5fc27c01c95a84"
+      "hash": "e88b35475c9109518a8081ddb8535e59d19aafa7"
     },
     "izayoi.vgo.gltf": {
       "version": "https://github.com/izayoijiichan/vgo.gltf.git#v1.0.2",
